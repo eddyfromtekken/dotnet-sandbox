@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoSandbox", "AlgoSandbox\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveSandbox", "ReactiveSandbox\ReactiveSandbox.csproj", "{0051A311-91B5-485A-8907-B728D9618575}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcSandbox", "GrpcSandbox\GrpcSandbox.csproj", "{A4EFFDC6-008E-4478-A9B9-0C10AF1D4D55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{0051A311-91B5-485A-8907-B728D9618575}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0051A311-91B5-485A-8907-B728D9618575}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0051A311-91B5-485A-8907-B728D9618575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4EFFDC6-008E-4478-A9B9-0C10AF1D4D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4EFFDC6-008E-4478-A9B9-0C10AF1D4D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4EFFDC6-008E-4478-A9B9-0C10AF1D4D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4EFFDC6-008E-4478-A9B9-0C10AF1D4D55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
